@@ -1,5 +1,7 @@
-
+#include <locale.h>
 #include <windows.h>
+#include <conio.h>
+#include <stdio.h>
 
 //
 //// Alunos: Stephano e Franklin
