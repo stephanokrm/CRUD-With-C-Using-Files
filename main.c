@@ -1,7 +1,6 @@
 
 #include <windows.h>
 
-
 //
 //// Alunos: Stephano e Franklin
 //
